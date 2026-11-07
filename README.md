@@ -1,8 +1,7 @@
 # Smart Parking Management & Simulation System
 
-> **Môn học:** Object-Oriented Language and Theory (IT3100 / IT3103 - SoICT - HUST)  
+> **Môn học:** Object-Oriented Programming (IT3100E - SoICT - HUST)  
 > **Giảng viên hướng dẫn:** PGS. Lê Đức Hậu  
-> **Trưởng nhóm & Kiến trúc sư phần mềm:** Nguyễn Nhật Anh  
 
 ---
 
